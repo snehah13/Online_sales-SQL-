@@ -1,4 +1,4 @@
-# Online_sales-SQL-
+# SQL
 # Online Sales Analysis
 
 ## Overview
@@ -31,3 +31,7 @@ FROM orders
 ## Author: Snehah13
 GROUP BY YEAR(order_date), MONTH(order_date)
 ORDER BY year DESC, month DESC;
+
+## Author
+sneha H
+GitHub: snehah13
